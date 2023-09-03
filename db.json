@@ -1,0 +1,319 @@
+{
+  "videos": [
+    {
+      "id": 1,
+      "titulo": "Conhecendo a linguagem Go | Hipsters.Talks",
+      "descricao": "3 mil visualizações",
+      "url": "https://www.youtube.com/embed/y8FeZMv37WU",
+      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true"
+    },
+    {
+      "id": 2,
+      "titulo": "Desmistificando mobile - Linguagens e Frameworks",
+      "descricao": "1,5 mil visualizações",
+      "url": "https://www.youtube.com/embed/fmu1LQvZhms",
+      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true"
+    },
+    {
+      "id": 3,
+      "titulo": "Orientação a objetos com Roberta Arcoverde | #Hipster...",
+      "descricao": "30 mil visualizações",
+      "url": "https://www.youtube.com/embed/jpuJ1qrluoU",
+      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true"
+    },
+    {
+      "id": 4,
+      "titulo": "Linguagens e ferramentas usadas em Ciência de Dados...",
+      "descricao": "2,5 mil visualizações",
+      "url": "https://www.youtube.com/embed/h83e1aAM5xQ",
+      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true"
+    },
+    {
+      "id": 5,
+      "titulo": "Reencontrando a paixão por programar: Beatriz Ramerindo",
+      "descricao": "1,2 mil visualizações",
+      "url": "https://www.youtube.com/embed/CnB3eLTrkn4",
+      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true"
+    },
+    {
+      "id": 6,
+      "titulo": "Híbridos: Flutter e React Native | Desmistificando..",
+      "descricao": "1,6 mil visualizações",
+      "url": "https://www.youtube.com/embed/vf9P_PycgRw",
+      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true"
+    },
+    {
+      "id": 7,
+      "titulo": "Data Science na prática- com Jéssika Ribeiro do Grupo...",
+      "descricao": "3,2 mil visualizações",
+      "url": "https://www.youtube.com/embed/Nts3P35mHzE",
+      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true"
+    },
+    {
+      "id": 8,
+      "titulo": "baNaNa | Memes do JavaScript #2",
+      "descricao": "1,2 mil visualizações",
+      "url": "https://www.youtube.com/embed/HBVCsBtsmzA",
+      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true"
+    },
+    {
+      "titulo": "[Casa do Código] Live de lançamento: Navegando no Universo da Programação",
+      "descricao": "1 mil visualizações",
+      "url": "https://www.youtube.com/embed/z43rcfjXOxU",
+      "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg",
+      "id": 9
+    },
+    {
+      "titulo": "Logs no Android: boas práticas para otimização e aplicação | #AluraMais",
+      "descricao": "2 mil visualizações",
+      "url": "https://www.youtube.com/embed/viRW15_qUZw",
+      "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg",
+      "id": 10
+    },
+    {
+      "titulo": "Conhecendo NestJS | #AluraMais",
+      "descricao": "5 mil visualizações",
+      "url": "https://www.youtube.com/embed/YHpG6t91oW8",
+      "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg",
+      "id": 11
+    },
+    {
+      "titulo": "Curso de Inteligência Artificial - Aula 1.",
+      "descricao": "4 mil visualizações",
+      "url": "https://www.youtube.com/embed/kqvpZi6QLTM?si=UUHV_FCN72o_YD0w",
+      "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg",
+      "id": 12
+    },
+    {
+      "titulo": "Curso de Inteligência Artificial - Aula 2.",
+      "descricao": "3 mil visualizações",
+      "url": "https://www.youtube.com/embed/Ft_XYARdqfk?si=S1pJdGEDBGUCxD9z",
+      "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg",
+      "id": 13
+    },
+    {
+      "titulo": "Curso de Inteligência Artificial - Aula 3.",
+      "descricao": "7 mil visualizações",
+      "url": "https://www.youtube.com/embed/MD5PvAWy6lc?si=m0xWXKB0DRDu_TLa",
+      "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg",
+      "id": 14
+    },
+    {
+      "titulo": "Curso de Inteligência Artificial - Aula 4.",
+      "descricao": "7 mil visualizações",
+      "url": "https://www.youtube.com/embed/1M3khIxv1G8?si=ujyawJyJMyssHhj2",
+      "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg",
+      "id": 15
+    },
+    {
+      "titulo": "Curso de Inteligência Artificial - Aula 5.",
+      "descricao": "9 mil visualizações",
+      "url": "https://www.youtube.com/embed/J4_wtzwBmXQ?si=cPJezkvLtrMAIYHn",
+      "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg",
+      "id": 16
+    },
+    {
+      "titulo": "Curso de Inteligência Artificial - Aula 6.",
+      "descricao": "3 mil visualizações",
+      "url": "https://www.youtube.com/embed/yiKzNM1bwcY?si=sf3_7qNkA6uZPKL3\" title=\"YouTube video player",
+      "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg",
+      "id": 17
+    },
+    {
+      "titulo": "Curso de Inteligência Artificial - Aula 7.",
+      "descricao": "6 mil visualizações",
+      "url": "https://www.youtube.com/embed/-nnSlunjYg4?si=QRVNok6INiDDzrib",
+      "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg",
+      "id": 18
+    },
+    {
+      "titulo": "Curso de Inteligência Artificial - Aula 8.",
+      "descricao": "5 mil visualizações",
+      "url": "https://www.youtube.com/embed/TM9X78uxHbo?si=Z9anhFH49GOEikZl",
+      "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg",
+      "id": 19
+    },
+    {
+      "titulo": "Curso de Inteligência Artificial - Aula 9.",
+      "descricao": "5 mil visualizações",
+      "url": "https://www.youtube.com/embed/AW_8Xdh8Jvg?si=hDElbUT2OJKyX7dZ",
+      "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg",
+      "id": 20
+    },
+    {
+      "titulo": "Curso de Inteligência Artificial - Aula 10.",
+      "descricao": "9 mil visualizações",
+      "url": "https://www.youtube.com/embed/4nZRbJ9i8BA?si=Z18FZ3Bdvm3hMfoX",
+      "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg",
+      "id": 21
+    },
+    {
+      "titulo": "Curso de Inteligência Artificial - Aula 11.",
+      "descricao": "3 mil visualizações",
+      "url": "https://www.youtube.com/embed/glPwy7Uej8E?si=KOz2-QpGzWPYDcew",
+      "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg",
+      "id": 22
+    },
+    {
+      "titulo": "Curso de Inteligência Artificial - Aula 12.",
+      "descricao": "9 mil visualizações",
+      "url": "https://www.youtube.com/embed/VpjHgOkS0UE?si=Ct7wtwWT31DnUyxD",
+      "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg",
+      "id": 23
+    },
+    {
+      "titulo": "Curso de Inteligência Artificial - Aula 13.",
+      "descricao": "7 mil visualizações",
+      "url": "https://www.youtube.com/embed/sz3fiZdqTx0?si=aGb1Nwppl_ffZY55",
+      "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg",
+      "id": 24
+    },
+    {
+      "titulo": "Curso de Inteligência Artificial - Aula 14.",
+      "descricao": "6 mil visualizações",
+      "url": "https://www.youtube.com/embed/zQfQOn8TUzU?si=r5mlTV0ZU2WkbTE6",
+      "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg",
+      "id": 25
+    },
+    {
+      "titulo": "Curso de Inteligência Artificial - Aula 15.",
+      "descricao": "4 mil visualizações",
+      "url": "https://www.youtube.com/embed/KpfsWrCrNAk?si=ghEjq8zXTm_uhvIM",
+      "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg",
+      "id": 26
+    },
+    {
+      "titulo": "Curso de Inteligência Artificial - Aula 16.",
+      "descricao": "0 mil visualizações",
+      "url": "https://www.youtube.com/embed/edhdr7IKN7s?si=OlGQY5z2YryRU-1O",
+      "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg",
+      "id": 27
+    },
+    {
+      "titulo": "Curso de Inteligência Artificial - Aula 17.",
+      "descricao": "6 mil visualizações",
+      "url": "https://www.youtube.com/embed/M-zEQcFbSb8?si=hjGTv53TXN32A3bd",
+      "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg",
+      "id": 28
+    },
+    {
+      "titulo": "Curso de Inteligência Artificial - Aula 18.",
+      "descricao": "6 mil visualizações",
+      "url": "https://www.youtube.com/embed/lTZibreJfmA?si=tlO2-FMXmriqJSOQ",
+      "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg",
+      "id": 29
+    },
+    {
+      "titulo": "Curso de Inteligência Artificial - Aula 19.",
+      "descricao": "5 mil visualizações",
+      "url": "https://www.youtube.com/embed/_QGbC08Qx_g?si=p2mnGZrOXPgyBd_A",
+      "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg",
+      "id": 30
+    },
+    {
+      "titulo": "Curso de Inteligência Artificial - Aula 20.",
+      "descricao": "2 mil visualizações",
+      "url": "https://www.youtube.com/embed/RHmW0e3O5n8?si=-BnYDdlC92WGELWq",
+      "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg",
+      "id": 31
+    },
+    {
+      "titulo": "Curso de Inteligência Artificial - Aula 21.",
+      "descricao": "2 mil visualizações",
+      "url": "https://www.youtube.com/embed/J83VG29RU58?si=o5g1aqSIye_gaJ64",
+      "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg",
+      "id": 32
+    },
+    {
+      "titulo": "Curso de Inteligência Artificial - Aula 22.",
+      "descricao": "9 mil visualizações",
+      "url": "https://www.youtube.com/embed/tLg3C4J2s9k?si=_fBYn8xj97vDTbH5",
+      "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg",
+      "id": 33
+    },
+    {
+      "titulo": "Curso de Inteligência Artificial - Aula 23.",
+      "descricao": "5 mil visualizações",
+      "url": "https://www.youtube.com/embed/n8tdPsjDRkg?si=T9iYr89M9Vx3q04O",
+      "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg",
+      "id": 34
+    },
+    {
+      "titulo": "Curso de Inteligência Artificial - Aula 24.",
+      "descricao": "7 mil visualizações",
+      "url": "https://www.youtube.com/embed/4vLtjqarwMA?si=SVrZVS80cusEZZt5",
+      "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg",
+      "id": 35
+    },
+    {
+      "titulo": "Curso de Inteligência Artificial - Aula 25.",
+      "descricao": "0 mil visualizações",
+      "url": "https://www.youtube.com/embed/xazMhtB49eI?si=RGlEAx4Xo1eHuOjt",
+      "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg",
+      "id": 36
+    },
+    {
+      "titulo": "Curso de Inteligência Artificial - Aula 26.",
+      "descricao": "9 mil visualizações",
+      "url": "https://www.youtube.com/embed/yUrr6-7z2RI?si=LIRp_jc2iB7JKeyt",
+      "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg",
+      "id": 37
+    },
+    {
+      "titulo": "Curso de Inteligência Artificial - Aula 27.",
+      "descricao": "4 mil visualizações",
+      "url": "https://www.youtube.com/embed/dd3t0xY8as4?si=HdWvXmWs7-QbxlAj",
+      "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg",
+      "id": 38
+    },
+    {
+      "titulo": "Curso de Inteligência Artificial - Aula 28.",
+      "descricao": "0 mil visualizações",
+      "url": "https://www.youtube.com/embed/LoZTySZccS8?si=WJcn0vpM2OS2V8r3",
+      "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg",
+      "id": 39
+    },
+    {
+      "titulo": "Curso de Inteligência Artificial - Aula 29.",
+      "descricao": "0 mil visualizações",
+      "url": "https://www.youtube.com/embed/tMMTK3IeZAM?si=Vz0PJn_iI-MPhwUF",
+      "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg",
+      "id": 40
+    },
+    {
+      "titulo": "Curso de Inteligência Artificial - Aula 30.",
+      "descricao": "8 mil visualizações",
+      "url": "https://www.youtube.com/embed/CntOTbDMyW0?si=E5doW4R3neWH9W-X",
+      "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg",
+      "id": 41
+    },
+    {
+      "titulo": "Curso de Inteligência Artificial - Aula 31.",
+      "descricao": "8 mil visualizações",
+      "url": "https://www.youtube.com/embed/LI4ipd6mwcc?si=cemaPYQhN_1NehKp",
+      "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg",
+      "id": 42
+    },
+    {
+      "titulo": "Curso de Inteligência Artificial - Aula 32.",
+      "descricao": "9 mil visualizações",
+      "url": "https://www.youtube.com/embed/AXkxbd_tR0o?si=nehGt0xKmFPgJwkl",
+      "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg",
+      "id": 43
+    },
+    {
+      "titulo": "Curso de Inteligência Artificial - Aula 33.",
+      "descricao": "8 mil visualizações",
+      "url": "https://www.youtube.com/embed/K3CPzZR_m_w?si=LS0I3Y57whZkQn0J",
+      "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg",
+      "id": 44
+    },
+    {
+      "titulo": "Curso de Inteligência Artificial - Aula 34.",
+      "descricao": "2 mil visualizações",
+      "url": "https://www.youtube.com/embed/emIfViJb2dU?si=r6BdIqSeVvYWWiWV",
+      "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg",
+      "id": 45
+    }
+  ]
+}
